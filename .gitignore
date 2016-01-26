@@ -6,7 +6,7 @@ target/
 *.releaseBackup 
 
 
-# web application files 
+# web application files  | web项目开发 通配忽略控制
 #/web-app/WEB-INF 
   
 # IDE support files 
