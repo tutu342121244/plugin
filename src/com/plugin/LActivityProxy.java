@@ -1,4 +1,4 @@
-package com.yobn.plugin;
+package com.plugin;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -25,18 +25,18 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Toast;
 
-import com.yobn.plugin.api.LPluginBug;
-import com.yobn.plugin.bean.LActivityPlugin;
-import com.yobn.plugin.control.PluginActivityCallback;
-import com.yobn.plugin.control.PluginActivityControl;
-import com.yobn.plugin.exception.LaunchPluginException;
-import com.yobn.plugin.exception.NotFoundPluginException;
-import com.yobn.plugin.exception.PluginCreateFailedException;
-import com.yobn.plugin.exception.PluginNotExistException;
-import com.yobn.plugin.manager.LApkManager;
-import com.yobn.plugin.manager.LCallbackManager;
-import com.yobn.plugin.manager.LPluginBugManager;
-import com.yobn.plugin.service.LProxyService;
+import com.plugin.api.LPluginBug;
+import com.plugin.bean.LActivityPlugin;
+import com.plugin.control.PluginActivityCallback;
+import com.plugin.control.PluginActivityControl;
+import com.plugin.exception.LaunchPluginException;
+import com.plugin.exception.NotFoundPluginException;
+import com.plugin.exception.PluginCreateFailedException;
+import com.plugin.exception.PluginNotExistException;
+import com.plugin.manager.LApkManager;
+import com.plugin.manager.LCallbackManager;
+import com.plugin.manager.LPluginBugManager;
+import com.plugin.service.LProxyService;
 
 import java.io.File;
 import java.io.FileDescriptor;

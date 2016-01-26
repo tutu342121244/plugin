@@ -1,8 +1,8 @@
-package com.yobn.plugin;
+package com.plugin;
 
 import android.util.Log;
 
-import com.yobn.plugin.api.LFileTools;
+import com.plugin.api.LFileTools;
 
 import java.io.File;
 import java.io.IOException;

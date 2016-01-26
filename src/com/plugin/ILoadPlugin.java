@@ -1,8 +1,8 @@
-package com.yobn.plugin;
+package com.plugin;
 
 import android.app.Activity;
 
-import com.yobn.plugin.bean.LActivityPlugin;
+import com.plugin.bean.LActivityPlugin;
 
 /**
  * Created by lody  on 2015/3/27.

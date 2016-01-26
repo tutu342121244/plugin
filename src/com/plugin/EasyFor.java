@@ -1,4 +1,4 @@
-package com.yobn.plugin;
+package com.plugin;
 
 import java.util.Collection;
 import java.util.Iterator;

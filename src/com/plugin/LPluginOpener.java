@@ -1,10 +1,10 @@
-package com.yobn.plugin;
+package com.plugin;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.yobn.plugin.service.LProxyService;
+import com.plugin.service.LProxyService;
 
 /**
  * Created by lody  on 2015/3/24.

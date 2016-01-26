@@ -1,4 +1,4 @@
-package com.yobn.plugin;
+package com.plugin;
 
 /**
  * Created by lody  on 2015/3/24.

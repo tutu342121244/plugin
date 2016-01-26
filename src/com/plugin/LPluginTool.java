@@ -1,4 +1,4 @@
-package com.yobn.plugin;
+package com.plugin;
 
 import android.content.Context;
 import android.content.pm.ActivityInfo;
