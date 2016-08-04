@@ -9,7 +9,9 @@ import android.graphics.drawable.Drawable;
 import android.os.Build;
 
 /**
- * Created by lody  on 2015/3/24.
+ * 
+ * @author tutu Email/qq:342121244
+ * @annotation:2016-08-04
  */
 public class LPluginTool {
     /**
